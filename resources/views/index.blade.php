@@ -4,4 +4,11 @@
  {{--* Date: 15.12.2018--}}
  {{--* Time: 11:45--}}
  {{--*/--}}
-{{ $test }}
+
+{{--   #2  19:02 --}}
+@extends('template')
+    @section('content')
+        {{ $test }}
+@endsection
+
+
